@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="@10" Category="CodeSchema_Assembly" Bounds="-442.493101153196,-177.276407219122,304.823333333333,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.JiraCommitHintPlugin, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(626ca9eb-db83-4beb-87d5-15e3b397ef57.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.JiraCommitHintPlugin.dll" UseManualLocation="True" />
-    <Node Id="@12" Category="CodeSchema_Assembly" Bounds="-425.193100433197,-417.276907219122,185.77,25" CodeSchemaProperty_StrongName="AppVeyorIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(39228d7f-9239-4a2d-8a6f-4d0f7deb9178.OutputPath)" Group="Collapsed" Label="AppVeyorIntegration.dll" UseManualLocation="True" />
-    <Node Id="@14" Category="CodeSchema_Assembly" Bounds="-425.193100433197,-527.277107219122,172.05,25" CodeSchemaProperty_StrongName="JenkinsIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e6aac693-815b-4d1a-83d7-f4de36072793.OutputPath)" Group="Collapsed" Label="JenkinsIntegration.dll" UseManualLocation="True" />
-    <Node Id="@16" Category="CodeSchema_Assembly" Bounds="-425.193100433197,-362.276807219122,205.983333333333,25" CodeSchemaProperty_StrongName="AzureDevOpsIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(92615565-cf33-4539-a0e6-610ce0734b8c.OutputPath)" Group="Collapsed" Label="AzureDevOpsIntegration.dll" UseManualLocation="True" />
-    <Node Id="@18" Category="CodeSchema_Assembly" Bounds="-425.193100433196,-472.277007219122,181.993333333333,25" CodeSchemaProperty_StrongName="TeamCityIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(121965d1-4399-4538-b8bf-403eb5b847c3.OutputPath)" Group="Collapsed" Label="TeamCityIntegration.dll" UseManualLocation="True" />
-    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="-166.462057819863,-342.289201449891,233.823333333333,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.GitHub3, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b1b0c273-ab3f-48bf-92c7-de0be90d5870.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitHub3.dll" UseManualLocation="True" />
-    <Node Id="@20" Category="CodeSchema_Assembly" Bounds="235.333565513472,-47.2761072191221,170.786666666667,25" CodeSchemaProperty_StrongName="ResourceManager, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d3440fd7-afc5-4351-8741-6cdbf15ce944.OutputPath)" Group="Collapsed" Label="ResourceManager.dll" UseManualLocation="True" />
-    <Node Id="@22" Category="CodeSchema_Assembly" Bounds="-442.493101153196,-287.276607219122,263.65,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.ProxySwitcher, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(274f449f-7472-4248-9a57-8ca665a75b5d.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.ProxySwitcher.dll" UseManualLocation="True" />
-    <Node Id="@24" Bounds="-311.946434486529,-47.2761072191221,151.093333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(bdbbd17e-5637-4e48-a44d-e2fe8486ea7c.OutputPath)" Group="Collapsed" Label="BugReporter.dll" UseManualLocation="True" />
-    <Node Id="@26" Category="CodeSchema_Assembly" Bounds="-442.493101153195,-122.276307219122,314.116666666667,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.ReleaseNotesGenerator, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(8b3778f2-6049-4d4c-b94f-d5ff3a5dc7f8.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.ReleaseNotesGenerator.dll" UseManualLocation="True" />
-    <Node Id="@28" Bounds="-149.209767099862,-472.289501449891,259.826666666667,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(92b57383-233e-46ae-8a86-6e98bf349a72.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitStatistics.dll" UseManualLocation="True" />
-    <Node Id="@30" Category="CodeSchema_Assembly" Bounds="54.4568988468046,-47.2761072191221,150.876666666667,25" CodeSchemaProperty_StrongName="GitCommands, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(bd6aa2a2-997d-4aff-acc7-b64f6e51d181.OutputPath)" Group="Collapsed" Label="GitCommands.dll" UseManualLocation="True" />
-    <Node Id="@32" Category="CodeSchema_Assembly" Bounds="160.616899566804,-567.276476449891,186.58,25" CodeSchemaProperty_StrongName="GitUIPluginInterfaces, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(27559302-f35e-4b62-a6ec-11ff21a5fa6f.OutputPath)" Group="Collapsed" Label="GitUIPluginInterfaces.dll" UseManualLocation="True" />
-    <Node Id="@34" Bounds="-107.669767819862,-177.276526449891,320.913333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(921f0443-c3a1-4a09-82e8-c4afb9654943.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.DeleteUnusedBranches.dll" UseManualLocation="True" />
-    <Node Id="@36" Category="CodeSchema_Assembly" Bounds="-130.696278486529,-232.289001449891,299.003333333333,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.CreateLocalBranches, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(31d96116-16a6-45c2-9a6d-6dd5a1fc5f20.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.CreateLocalBranches.dll" UseManualLocation="True" />
-    <Node Id="@38" Bounds="-148.76181448653,-287.289101449891,273.723333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(f261bcd1-f5f7-4664-a229-e52032e6e9fd.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.FindLargeFiles.dll" UseManualLocation="True" />
-    <Node Id="@4" Bounds="-169.162057099864,-397.289301449891,236.83,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(687a73bb-12a0-4af7-b420-4a9c47db75cb.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.Gource.dll" UseManualLocation="True" />
-    <Node Id="@40" Category="CodeSchema_Assembly" Bounds="-98.376434486528,-122.276426449891,325.066666666667,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.AutoCompileSubmodules, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(7e5433f4-dd13-4d8e-95b2-59b4ffe7d636.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.AutoCompileSubmodules.dll" UseManualLocation="True" />
-    <Node Id="@42" Category="CodeSchema_Assembly" Bounds="-471.493101153196,-47.2761072191222,129.546666666667,25" CodeSchemaProperty_StrongName="GitExtUtils, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0f1f1168-a4b2-4fa2-b17b-735140d17f39.OutputPath)" Group="Collapsed" Label="GitExtUtils.dll" UseManualLocation="True" />
-    <Node Id="@44" Bounds="-130.853101153195,-47.2761072191222,155.31,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(f15a69af-7ebd-4f69-a026-5071fa3ec61b.OutputPath)" Group="Collapsed" Label="GitExtensions.dll" UseManualLocation="True" />
-    <Node Id="@46" Category="CodeSchema_Assembly" Bounds="-149.209767099862,-527.289601449891,241.29,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.GitImpact, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0b131f9d-bb10-4c3e-9656-5ab858158de5.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitImpact.dll" UseManualLocation="True" />
-    <Node Id="@48" Category="CodeSchema_Assembly" Bounds="97.3612755134706,-342.289201449891,239.33,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.Bitbucket, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(50aeab6c-83c4-45f8-aa01-90e1405c48af.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.Bitbucket.dll" UseManualLocation="True" />
-    <Node Id="@50" Category="CodeSchema_Assembly" Bounds="97.6679429001365,-397.289301449891,229.46,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.GitFlow, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d4628a13-cd53-401f-a645-cb16fd15abbb.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitFlow.dll" UseManualLocation="True" />
-    <Node Id="@6" Category="CodeSchema_Assembly" Bounds="-442.493101153196,-232.276507219122,281.73,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.BackgroundFetch, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(f261bcd1-f5f7-4664-a230-e52032e6e9fd.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.BackgroundFetch.dll" UseManualLocation="True" />
-    <Node Id="@8" Bounds="397.196899566804,-607.276476449891,111.123333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(cf5b22e7-230f-4e50-be88-c4f7023ced2c.OutputPath)" Group="Collapsed" Label="GitUI.dll" UseManualLocation="True" />
-    <Node Id="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" Category="CodeMap_SolutionFolder" Bounds="-445.193100433197,-567.277207219122,245.983333333333,250.0005" Group="Expanded" Label="BuildServerIntegration" UseManualLocation="True" />
-    <Node Id="I appriciate you!{34B9B39D-2C8D-42AF-B4B7-FA4F054D2721}" Category="CodeMap_SolutionFolder" Bounds="-491.493101153196,-647.289901449891,1019.81333405333,645.013894230769" Group="Expanded" Label="I appriciate you!" UseManualLocation="True" />
-    <Node Id="Plugins{3D5CA0E0-EF51-4488-A8B7-86CC330D7AD8}" Category="CodeMap_SolutionFolder" Bounds="-465.193100433197,-607.289801449891,832.390000000001,530.013594230769" Group="Expanded" Label="Plugins" UseManualLocation="True" />
-    <Node Id="Statistics{AF6D7B1B-FAF6-4793-AC05-00C63A5BC0F5}" Category="CodeMap_SolutionFolder" Bounds="-169.209767099862,-567.289701449891,299.826666666667,140.0003" Group="Expanded" Label="Statistics" UseManualLocation="True" />
+    <Node Id="@10" Category="CodeSchema_Assembly" Bounds="75.1125092895647,-231.001480482884,304.823333333333,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.JiraCommitHintPlugin, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(626ca9eb-db83-4beb-87d5-15e3b397ef57.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.JiraCommitHintPlugin.dll" UseManualLocation="True" />
+    <Node Id="@12" Category="CodeSchema_Assembly" Bounds="-78.6173449180792,-471.001556963477,185.77,25" CodeSchemaProperty_StrongName="AppVeyorIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(39228d7f-9239-4a2d-8a6f-4d0f7deb9178.OutputPath)" Group="Collapsed" Label="AppVeyorIntegration.dll" UseManualLocation="True" />
+    <Node Id="@14" Category="CodeSchema_Assembly" Bounds="-78.6173449180788,-581.001756963477,172.05,25" CodeSchemaProperty_StrongName="JenkinsIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e6aac693-815b-4d1a-83d7-f4de36072793.OutputPath)" Group="Collapsed" Label="JenkinsIntegration.dll" UseManualLocation="True" />
+    <Node Id="@16" Category="CodeSchema_Assembly" Bounds="-78.6173449180795,-416.001456963477,205.983333333333,25" CodeSchemaProperty_StrongName="AzureDevOpsIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(92615565-cf33-4539-a0e6-610ce0734b8c.OutputPath)" Group="Collapsed" Label="AzureDevOpsIntegration.dll" UseManualLocation="True" />
+    <Node Id="@18" Category="CodeSchema_Assembly" Bounds="-78.6173449180792,-526.001656963477,181.993333333333,25" CodeSchemaProperty_StrongName="TeamCityIntegration, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(121965d1-4399-4538-b8bf-403eb5b847c3.OutputPath)" Group="Collapsed" Label="TeamCityIntegration.dll" UseManualLocation="True" />
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="177.364653903962,-396.001519192484,233.823333333333,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.GitHub3, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b1b0c273-ab3f-48bf-92c7-de0be90d5870.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitHub3.dll" UseManualLocation="True" />
+    <Node Id="@20" Category="CodeSchema_Assembly" Bounds="223.599614111296,-716.002029432443,170.786666666667,25" CodeSchemaProperty_StrongName="ResourceManager, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d3440fd7-afc5-4351-8741-6cdbf15ce944.OutputPath)" Group="Collapsed" Label="ResourceManager.dll" UseManualLocation="True" />
+    <Node Id="@22" Category="CodeSchema_Assembly" Bounds="95.6802426947837,-341.001506289284,263.65,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.ProxySwitcher, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(274f449f-7472-4248-9a57-8ca665a75b5d.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.ProxySwitcher.dll" UseManualLocation="True" />
+    <Node Id="@24" Bounds="-50.9886429712767,-771.002032507643,151.093333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(bdbbd17e-5637-4e48-a44d-e2fe8486ea7c.OutputPath)" Group="Collapsed" Label="BugReporter.dll" UseManualLocation="True" />
+    <Node Id="@26" Category="CodeSchema_Assembly" Bounds="-79.8637565976305,-121.001454676484,314.116666666667,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.ReleaseNotesGenerator, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(8b3778f2-6049-4d4c-b94f-d5ff3a5dc7f8.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.ReleaseNotesGenerator.dll" UseManualLocation="True" />
+    <Node Id="@28" Bounds="197.366088415255,-526.001171932431,259.826666666666,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(92b57383-233e-46ae-8a86-6e98bf349a72.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitStatistics.dll" UseManualLocation="True" />
+    <Node Id="@30" Category="CodeSchema_Assembly" Bounds="42.7228474446295,-716.002029432443,150.876666666667,25" CodeSchemaProperty_StrongName="GitCommands, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(bd6aa2a2-997d-4aff-acc7-b64f6e51d181.OutputPath)" Group="Collapsed" Label="GitCommands.dll" UseManualLocation="True" />
+    <Node Id="@32" Category="CodeSchema_Assembly" Bounds="135.412216308429,153.998609839516,186.58,25" CodeSchemaProperty_StrongName="GitUIPluginInterfaces, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(27559302-f35e-4b62-a6ec-11ff21a5fa6f.OutputPath)" Group="Collapsed" Label="GitUIPluginInterfaces.dll" UseManualLocation="True" />
+    <Node Id="@34" Bounds="68.4327096544716,98.9985969363159,320.913333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(921f0443-c3a1-4a09-82e8-c4afb9654943.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.DeleteUnusedBranches.dll" UseManualLocation="True" />
+    <Node Id="@36" Category="CodeSchema_Assembly" Bounds="80.1017346352554,43.9985840331159,299.003333333333,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.CreateLocalBranches, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(31d96116-16a6-45c2-9a6d-6dd5a1fc5f20.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.CreateLocalBranches.dll" UseManualLocation="True" />
+    <Node Id="@38" Bounds="99.7181722404309,-11.0014672224229,273.723333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(f261bcd1-f5f7-4664-a229-e52032e6e9fd.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.FindLargeFiles.dll" UseManualLocation="True" />
+    <Node Id="@4" Bounds="177.364653903962,-451.001532095684,236.83,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(687a73bb-12a0-4af7-b420-4a9c47db75cb.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.Gource.dll" UseManualLocation="True" />
+    <Node Id="@40" Category="CodeSchema_Assembly" Bounds="64.3219668057008,-176.001488428823,325.066666666666,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.AutoCompileSubmodules, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(7e5433f4-dd13-4d8e-95b2-59b4ffe7d636.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.AutoCompileSubmodules.dll" UseManualLocation="True" />
+    <Node Id="@42" Category="CodeSchema_Assembly" Bounds="145.595973823534,228.998516695556,129.546666666667,25" CodeSchemaProperty_StrongName="GitExtUtils, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0f1f1168-a4b2-4fa2-b17b-735140d17f39.OutputPath)" Group="Collapsed" Label="GitExtUtils.dll" UseManualLocation="True" />
+    <Node Id="@44" Bounds="130.104790362056,-771.002032507643,155.31,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(f15a69af-7ebd-4f69-a026-5071fa3ec61b.OutputPath)" Group="Collapsed" Label="GitExtensions.dll" UseManualLocation="True" />
+    <Node Id="@46" Category="CodeSchema_Assembly" Bounds="197.366088415254,-581.001271932432,241.29,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.GitImpact, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(0b131f9d-bb10-4c3e-9656-5ab858158de5.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitImpact.dll" UseManualLocation="True" />
+    <Node Id="@48" Category="CodeSchema_Assembly" Bounds="118.276542097309,-66.0013441436682,239.33,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.Bitbucket, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(50aeab6c-83c4-45f8-aa01-90e1405c48af.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.Bitbucket.dll" UseManualLocation="True" />
+    <Node Id="@50" Category="CodeSchema_Assembly" Bounds="264.253010069036,-121.001454676484,229.46,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.GitFlow, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d4628a13-cd53-401f-a645-cb16fd15abbb.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.GitFlow.dll" UseManualLocation="True" />
+    <Node Id="@6" Category="CodeSchema_Assembly" Bounds="86.7355504829877,-286.001493386084,281.73,25" CodeSchemaProperty_StrongName="GitExtensions.Plugins.BackgroundFetch, Version=33.33.33.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(f261bcd1-f5f7-4664-a230-e52032e6e9fd.OutputPath)" Group="Collapsed" Label="GitExtensions.Plugins.BackgroundFetch.dll" UseManualLocation="True" />
+    <Node Id="@8" Bounds="315.414890362057,-771.002032507643,111.123333333333,25" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="NotFetched" ErrorLevel="Error" FilePath="$(cf5b22e7-230f-4e50-be88-c4f7023ced2c.OutputPath)" Group="Collapsed" Label="GitUI.dll" UseManualLocation="True" />
+    <Node Id="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" Category="CodeMap_SolutionFolder" Bounds="-98.618779429372,-621.002019192483,245.983333333333,250.0005" Group="Expanded" Label="BuildServerIntegration" UseManualLocation="True" />
+    <Node Id="I appriciate you!{34B9B39D-2C8D-42AF-B4B7-FA4F054D2721}" Category="CodeMap_SolutionFolder" Bounds="-138.664521349825,-811.003103739902,672.387382826407,1085.00288503104" Group="Expanded" Label="I appriciate you!" UseManualLocation="True" />
+    <Node Id="Plugins{3D5CA0E0-EF51-4488-A8B7-86CC330D7AD8}" Category="CodeMap_SolutionFolder" Bounds="-118.664521349825,-661.002118708859,632.387382826406,860.0017" Group="Expanded" Label="Plugins" UseManualLocation="True" />
+    <Node Id="Statistics{AF6D7B1B-FAF6-4793-AC05-00C63A5BC0F5}" Category="CodeMap_SolutionFolder" Bounds="177.364653903962,-621.001844998885,299.826666666667,140.0003" Group="Expanded" Label="Statistics" UseManualLocation="True" />
   </Nodes>
   <Links>
     <Link Source="@10" Target="@20" Category="References" Bounds="-231.34999950779,-152.276407219122,484.542630543289,103.126764806336" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="42">
@@ -38,7 +38,7 @@
       <Category Ref="InheritsFrom" />
     </Link>
     <Link Source="@10" Target="@30" Category="CodeMap_ExternalReference" Bounds="-249.699155881532,-152.276407219122,330.614579938213,102.33900592019" />
-    <Link Source="@10" Target="@32" Category="References" Bounds="-236.223587036133,-535.324645996094,474.136688232422,358.048233032227" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="76">
+    <Link Source="@10" Target="@32" Category="References" Bounds="293.957244873047,-206.001220703125,209.899841308594,358.324844360352" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="76">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
@@ -133,7 +133,7 @@
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_FieldRead" />
     </Link>
-    <Link Source="@2" Target="@32" Category="References" Bounds="-0.365738123655319,-535.324645996094,238.278839319944,193.035430908203" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="208">
+    <Link Source="@2" Target="@32" Category="References" Bounds="303.510650634766,-371.001525878906,200.346435546875,523.325149536133" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="208">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_FunctionPointer" />
@@ -141,7 +141,7 @@
       <Category Ref="Implements" />
     </Link>
     <Link Source="@2" Target="@42" Category="CodeMap_ExternalReference" Bounds="-384.64710786536,-317.289201449891,319.963092830231,264.281621611663" />
-    <Link Source="@20" Target="@30" Category="References" Bounds="214.333565513471,-34.7761072191221,21.0000000000004,0" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="128">
+    <Link Source="@20" Target="@30" Category="References" Bounds="202.597707449254,-703.502903739902,21.0000999999997,0" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="128">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_FunctionPointer" />
@@ -155,7 +155,7 @@
       <Category Ref="CodeSchema_ReturnTypeLink" />
       <Category Ref="Implements" />
     </Link>
-    <Link Source="@20" Target="@42" Category="CodeSchema_Calls" Bounds="-356.716217041016,-22.2761077880859,624.686889648438,10.1341829299927" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="10">
+    <Link Source="@20" Target="@42" Category="CodeSchema_Calls" Bounds="284.09326171875,-691.189147949219,239.763793945313,925.077102661133" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="10">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
     <Link Source="@22" Target="@20" Category="References" Bounds="-277.783013413796,-262.276607219122,557.212083804793,211.802720514404" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="19">
@@ -166,7 +166,7 @@
     <Link Source="@22" Target="@30" Category="CodeSchema_Calls" Bounds="-287.722142012833,-262.276607219122,386.768042558074,210.695072818798" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="5">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
-    <Link Source="@22" Target="@32" Category="References" Bounds="-263.7080078125,-535.324645996094,501.621109008789,248.048034667969" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="30">
+    <Link Source="@22" Target="@32" Category="References" Bounds="285.869201660156,-316.001403808594,217.987884521484,468.32502746582" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="30">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
@@ -174,10 +174,10 @@
     <Link Source="@22" Target="@42" Category="CodeSchema_Calls" Bounds="-398.373026564164,-262.276607219122,82.7022448609968,206.64482779506" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="14">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
-    <Link Source="@24" Target="@20" Category="CodeMap_ProjectReference" Bounds="-189.081481933594,-57.4102897644043,448.293273925781,10.1341819763184" />
-    <Link Source="@24" Target="@30" Category="CodeMap_ExternalReference" Bounds="-161.185485839844,-25.4835395812988,209.979972839355,13.3416147232056" />
-    <Link Source="@24" Target="@32" Category="CodeMap_ExternalReference" Bounds="-224.613558222743,-535.728301306836,460.559995015251,488.452194087714" />
-    <Link Source="@24" Target="@42" Category="CodeMap_ProjectReference" Bounds="-332.946434486529,-34.7761072191221,21,1.4210854715202E-14" />
+    <Link Source="@24" Target="@20" Category="CodeMap_ProjectReference" Bounds="89.2004003505685,-746.003003739902,146.31023825812,28.2914546116527" />
+    <Link Source="@24" Target="@30" Category="CodeMap_ExternalReference" Bounds="45.8296231459215,-746.003003739902,43.2967430832531,25.4406504382383" />
+    <Link Source="@24" Target="@32" Category="CodeMap_ExternalReference" Bounds="27.3150739449646,-746.003003739902,196.698550868294,891.213993556816" />
+    <Link Source="@24" Target="@42" Category="CodeMap_ProjectReference" Bounds="-128.798736572266,-746.002990722656,265.433609008789,980.466537475586" />
     <Link Source="@26" Target="@20" Category="References" Bounds="-184.408092779884,-97.2763072191219,411.770435865377,50.9482317049474" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="22">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
@@ -186,7 +186,7 @@
     <Link Source="@26" Target="@30" Category="CodeSchema_Calls" Bounds="-216.213285743814,-97.2763072191219,268.030282615518,48.4008494503655" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
-    <Link Source="@26" Target="@32" Category="References" Bounds="-224.452728271484,-535.324645996094,462.365829467773,413.04833984375" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="6">
+    <Link Source="@26" Target="@32" Category="References" Bounds="62.8906173706055,-96.0010223388672,91.1679916381836,248.321105957031" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="6">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
     </Link>
@@ -206,7 +206,7 @@
       <Category Ref="Implements" />
       <Category Ref="InheritsFrom" />
     </Link>
-    <Link Source="@30" Target="@42" Category="References" Bounds="-356.721893310547,-22.2761077880859,439.358673095703,10.1341829299927" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="790">
+    <Link Source="@30" Target="@42" Category="References" Bounds="-128.798736572266,-693.690185546875,265.433609008789,928.153732299805" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="790">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_FunctionPointer" />
@@ -218,7 +218,7 @@
     </Link>
     <Link Source="@34" Target="@20" Category="CodeMap_ProjectReference" Bounds="78.5502773021815,-152.276526449891,208.315985516255,101.071752816242" />
     <Link Source="@34" Target="@30" Category="CodeMap_ProjectReference" Bounds="60.2011377574935,-152.276526449891,57.6885033849351,97.2596514622784" />
-    <Link Source="@34" Target="@32" Category="CodeMap_ProjectReference" Bounds="101.297218322754,-534.442993164063,242.511772155762,357.166473388672" />
+    <Link Source="@34" Target="@32" Category="CodeMap_ProjectReference" Bounds="228.785172380835,123.999381291141,0.0712985399771924,21.0001518710646" />
     <Link Source="@34" Target="@42" Category="CodeMap_ProjectReference" Bounds="-353.8764824113,-152.276526449891,362.480190409025,102.550365716904" />
     <Link Source="@36" Target="@20" Category="InheritsFrom" Bounds="39.2040684938779,-207.289001449891,253.450333694504,155.31049668185" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="9">
       <Category Ref="CodeMap_ProjectReference" />
@@ -227,7 +227,7 @@
     <Link Source="@36" Target="@30" Category="CodeSchema_Calls" Bounds="26.310935594946,-207.289001449891,91.4457697686925,152.296969019655" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="2">
       <Category Ref="CodeMap_ExternalReference" />
     </Link>
-    <Link Source="@36" Target="@32" Category="References" Bounds="63.7177810668945,-535.324645996094,174.195320129395,303.03564453125" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="10">
+    <Link Source="@36" Target="@32" Category="References" Bounds="295.220458984375,68.9992828369141,104.269348144531,83.3243408203125" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="10">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="Implements" />
@@ -235,20 +235,20 @@
     <Link Source="@36" Target="@42" Category="CodeSchema_Calls" Bounds="-369.716455274666,-207.289001449891,359.772147537039,156.424327306861" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="8">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
-    <Link Source="@38" Target="@20" Category="CodeMap_ProjectReference" Bounds="5.42323959363473,-262.289101449891,290.681892740386,209.746718267329" />
-    <Link Source="@38" Target="@30" Category="CodeMap_ProjectReference" Bounds="-4.5153716093896,-262.289101449891,122.447993161012,207.264224519325" />
-    <Link Source="@38" Target="@32" Category="CodeMap_ProjectReference" Bounds="22.6252155303955,-535.324645996094,215.287885665894,248.035552978516" />
-    <Link Source="@38" Target="@42" Category="CodeMap_ProjectReference" Bounds="-378.466874443743,-262.289101449891,346.004318051722,210.337906693617" />
-    <Link Source="@4" Target="@20" Category="CodeMap_ProjectReference" Bounds="-37.4806302169047,-372.289301449891,338.390741172602,318.841260120385" />
-    <Link Source="@4" Target="@32" Category="CodeMap_ProjectReference" Bounds="23.2111949920654,-535.324645996094,214.701906204224,138.035339355469" />
-    <Link Source="@4" Target="@42" Category="CodeMap_ProjectReference" Bounds="-387.589482774926,-372.289301449891,324.12959382374,318.703178818127" />
+    <Link Source="@38" Target="@20" Category="CodeMap_ProjectReference" Bounds="237.874395786111,-682.049984530915,68.8944319511935,671.049201338007" />
+    <Link Source="@38" Target="@30" Category="CodeMap_ProjectReference" Bounds="121.731002181537,-682.127328285046,112.759861917663,671.126545092138" />
+    <Link Source="@38" Target="@32" Category="CodeMap_ProjectReference" Bounds="295.544372558594,13.9991817474365,101.735717773438,138.32444190979" />
+    <Link Source="@38" Target="@42" Category="CodeMap_ProjectReference" Bounds="212.692823252759,13.9992168070919,22.5313989372902,206.053827847902" />
+    <Link Source="@4" Target="@20" Category="CodeMap_ProjectReference" Bounds="296.263371879455,-682.014252725056,11.6855917793476,231.012596384449" />
+    <Link Source="@4" Target="@32" Category="CodeMap_ProjectReference" Bounds="303.510650634766,-426.001617431641,193.51904296875,578.325241088867" />
+    <Link Source="@4" Target="@42" Category="CodeMap_ProjectReference" Bounds="213.097960407758,-426.001656340607,80.9665902872932,646.071152889265" />
     <Link Source="@40" Target="@20" Category="References" Bounds="106.91838350305,-97.276426449891,162.408547285124,47.4751252764929" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="16">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="InheritsFrom" />
     </Link>
     <Link Source="@40" Target="@30" Category="CodeMap_ExternalReference" Bounds="75.1132411010067,-97.276426449891,37.8933313025113,43.2321873752859" />
-    <Link Source="@40" Target="@32" Category="References" Bounds="125.649383544922,-534.442993164063,216.738189697266,412.166564941406" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="35">
+    <Link Source="@40" Target="@32" Category="References" Bounds="231.245544433594,-151.001113891602,163.947387695313,303.324737548828" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="35">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
@@ -257,10 +257,10 @@
     <Link Source="@40" Target="@42" Category="CodeSchema_Calls" Bounds="-333.844843093408,-97.276426449891,319.522631535059,50.8929430209992" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="1">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
-    <Link Source="@44" Target="@20" Category="CodeMap_ProjectReference" Bounds="24.0192623138428,-25.2304191589355,208.745370864868,13.0884943008423" />
-    <Link Source="@44" Target="@30" Category="CodeMap_ProjectReference" Bounds="24.4568988468046,-34.7761072191221,20.9999999999999,1.4210854715202E-14" />
-    <Link Source="@44" Target="@32" Category="CodeMap_ProjectReference" Bounds="-45.8157746470071,-534.527041728587,287.763639119538,487.250934509465" />
-    <Link Source="@44" Target="@42" Category="CodeMap_ProjectReference" Bounds="-335.191436767578,-57.4102897644043,204.773574829102,13.0938415527344" />
+    <Link Source="@44" Target="@20" Category="CodeMap_ProjectReference" Bounds="230.765477568792,-746.003003739902,47.3099614977868,25.7035608526171" />
+    <Link Source="@44" Target="@30" Category="CodeMap_ProjectReference" Bounds="146.192831699742,-746.003003739902,41.2018686644035,25.2917640937519" />
+    <Link Source="@44" Target="@32" Category="CodeMap_ProjectReference" Bounds="208.083192449317,-746.0028603406,19.9874775521533,891.004567626445" />
+    <Link Source="@44" Target="@42" Category="CodeMap_ProjectReference" Bounds="284.09326171875,-747.641052246094,239.763793945313,981.529006958008" />
     <Link Source="@46" Target="@20" Category="References" Bounds="-19.4688856781741,-502.289601449891,325.804464653813,447.736246699745" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="12">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
@@ -292,7 +292,7 @@
       <Category Ref="CodeSchema_FieldRead" />
       <Category Ref="CodeSchema_FunctionPointer" />
     </Link>
-    <Link Source="@48" Target="@32" Category="References" Bounds="263.46240234375,-534.195739746094,73.7997131347656,191.906524658203" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="27">
+    <Link Source="@48" Target="@32" Category="References" Bounds="294.221466064453,-41.000919342041,102.453216552734,193.324542999268" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="27">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_ReturnTypeLink" />
@@ -310,7 +310,7 @@
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
     </Link>
-    <Link Source="@50" Target="@32" Category="References" Bounds="215.45030234039,-533.533369997516,33.2692695047956,136.244068547625" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="25">
+    <Link Source="@50" Target="@32" Category="References" Bounds="303.510650634766,-96.0010223388672,91.0816040039063,248.324645996094" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="25">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="Implements" />
@@ -327,7 +327,7 @@
     <Link Source="@6" Target="@30" Category="CodeSchema_FunctionPointer" Bounds="-272.471182213201,-207.276507219122,364.937619365255,156.454125055315" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="5">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
-    <Link Source="@6" Target="@32" Category="References" Bounds="-250.293487548828,-535.324645996094,488.206588745117,303.048141479492" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="54">
+    <Link Source="@6" Target="@32" Category="References" Bounds="290.357666015625,-261.001312255859,213.499420166016,413.324935913086" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="54">
       <Category Ref="CodeMap_ProjectReference" />
       <Category Ref="CodeSchema_Calls" />
       <Category Ref="CodeSchema_FunctionPointer" />
@@ -337,10 +337,10 @@
     <Link Source="@6" Target="@42" Category="CodeSchema_FunctionPointer" Bounds="-395.173620023906,-207.276507219122,86.4447459354438,152.174887726165" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="12">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
-    <Link Source="@8" Target="@20" Category="CodeMap_ProjectReference" Bounds="358.77880859375,-582.276489257813,92.1736145019531,530.908294677734" />
-    <Link Source="@8" Target="@30" Category="CodeMap_ProjectReference" Bounds="213.699844360352,-582.276489257813,237.27180480957,536.53829574585" />
-    <Link Source="@8" Target="@32" Category="CodeMap_ProjectReference" Bounds="324.871306319485,-583.869587495845,73.665933747476,14.8182683066896" />
-    <Link Source="@8" Target="@42" Category="CodeMap_ProjectReference" Bounds="-356.712982177734,-582.276489257813,807.684631347656,532.474254608154" />
+    <Link Source="@8" Target="@20" Category="CodeMap_ProjectReference" Bounds="329.810181523308,-746.003003739903,27.0774104600042,24.0266788758211" />
+    <Link Source="@8" Target="@30" Category="CodeMap_ProjectReference" Bounds="184.411606344235,-746.886025790393,133.164138362418,28.9699188196622" />
+    <Link Source="@8" Target="@32" Category="CodeMap_ProjectReference" Bounds="231.848142794138,-746.0028603406,137.246189833662,891.107188040746" />
+    <Link Source="@8" Target="@42" Category="CodeMap_ProjectReference" Bounds="284.09326171875,-746.002990722656,239.763793945313,979.89094543457" />
     <Link Source="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" Target="@12" Category="Contains" FetchingParent="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" />
     <Link Source="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" Target="@14" Category="Contains" FetchingParent="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" />
     <Link Source="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" Target="@16" Category="Contains" FetchingParent="BuildServerIntegration{F1B97F5D-CA42-4280-94A1-CE412BEA20DF}" />
