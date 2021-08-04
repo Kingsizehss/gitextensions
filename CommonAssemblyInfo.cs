@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Git Extensions")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyConfiguration("5.0.0")]
 [assembly: AssemblyCompany("Git Extensions")]
 [assembly: AssemblyProduct("Git Extensions")]
 [assembly: AssemblyCopyright("Copyright © 2008-2019 Git Extensions Team")]
